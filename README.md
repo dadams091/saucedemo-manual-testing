@@ -5,7 +5,12 @@ This self-directed project provides practical experience in foundational manual 
 
 ## Project Documents
 [Test Plan](https://docs.google.com/document/d/1IqFnUQIyoAQXtAlXlVv6wqredK1IX-MzvBAwTAHFBGA/edit?tab=t.0)
+
 [Test Cases](https://docs.google.com/document/d/1IqFnUQIyoAQXtAlXlVv6wqredK1IX-MzvBAwTAHFBGA/edit?tab=t.erszwiwasvxc)
+
 Exploratory Testing - Session Sheets
+
 Bug Reports
+
 Test Completion Report
+
